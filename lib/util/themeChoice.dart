@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-import 'package:theme_switcher/util/theme_mode_notifier.dart';
+import 'package:theme_switcher/util/themeModeNotifier.dart';
 
 class ThemeChoice extends StatefulWidget {
   ThemeChoice() : super();
